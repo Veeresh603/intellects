@@ -7,7 +7,6 @@ class Topbar extends Component {
         <div className="container">
           <div className="topbar-one__left">
             <a href="#none">hello@intellectsdotexe.com</a>
-            <a href="#none">444 888 0000</a>
           </div>
           <div className="topbar-one__right">
             <a href="#none">Login</a>

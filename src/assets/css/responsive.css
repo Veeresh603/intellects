@@ -53,7 +53,7 @@
   }
 
   .menu-toggler:hover {
-    border-color: #f16101;
+    border-color: #223366;
   }
 
   .menu-toggler .icon-bar {
@@ -61,7 +61,7 @@
   }
 
   .menu-toggler:hover .icon-bar {
-    background: #f16101;
+    background: #223366;
   }
 
   .navbar-expand-lg .navbar-collapse {
@@ -297,7 +297,7 @@
   .header-navigation .container .menu-toggler {
     float: left;
     margin: 28px 0;
-    color: #81868a;
+    color: #223366;
     margin-left: 0px;
     position: relative;
     top: 5px;
@@ -362,6 +362,7 @@
 
   .header-navigation .container .menu-toggler {
     float: right !important;
+    margin-left: 50px;
   }
 }
 @media (max-width: 1199px) {
