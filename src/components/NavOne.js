@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
-import logo from "../assets/images/logo.svg";
+import logo from "../assets/images/logo with name.png";
 class NavOne extends Component {
   constructor() {
     super();
@@ -78,11 +78,11 @@ class NavOne extends Component {
                 <img
                   src={logo}
                   className="main-logo"
-                  width="128"
+                  width="250px"
                   alt="Awesome alter text"
                 />
               </Link>
-              <div className="header__social">
+              {/* <div className="header__social">
                 <a href="#none">
                   <i className="fab fa-twitter"></i>
                 </a>
@@ -95,7 +95,7 @@ class NavOne extends Component {
                 <a href="#none">
                   <i className="fab fa-instagram"></i>
                 </a>
-              </div>
+              </div> */}
               <button className="menu-toggler">
                 <span className="kipso-icon-menu"></span>
               </button>
