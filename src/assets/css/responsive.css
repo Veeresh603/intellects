@@ -362,6 +362,7 @@
 
   .header-navigation .container .menu-toggler {
     float: right !important;
+    margin-left: 50px;
   }
 }
 @media (max-width: 1199px) {
@@ -732,7 +733,7 @@
     top: 10%;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 479) {
   .header__social {
     display: none;
   }
