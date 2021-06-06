@@ -82,20 +82,18 @@ class NavOne extends Component {
                   alt="Awesome alter text"
                 />
               </Link>
-              {/* <div className="header__social">
+              <div className="header__social">
                 <a href="#none">
                   <i className="fab fa-twitter"></i>
                 </a>
                 <a href="#none">
                   <i className="fab fa-facebook-square"></i>
                 </a>
-                <a href="#none">
-                  <i className="fab fa-pinterest-p"></i>
-                </a>
+             
                 <a href="#none">
                   <i className="fab fa-instagram"></i>
                 </a>
-              </div> */}
+              </div>
               <button className="menu-toggler">
                 <span className="kipso-icon-menu"></span>
               </button>

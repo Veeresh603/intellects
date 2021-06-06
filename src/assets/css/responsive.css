@@ -362,7 +362,6 @@
 
   .header-navigation .container .menu-toggler {
     float: right !important;
-    margin-left: 50px;
   }
 }
 @media (max-width: 1199px) {
