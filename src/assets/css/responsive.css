@@ -733,7 +733,7 @@
     top: 10%;
   }
 }
-@media (max-width: 479) {
+@media (max-width: 479px) {
   .header__social {
     display: none;
   }
